@@ -7,7 +7,7 @@
 1) Loading Data Via the TPC Generator
 
 
-`dsdgen /SCALE <value> /DIR <output_path> /suffix ".csv" /delimiter "|"`
+`dsdgen /SCALE 1 /DIR csv_data /suffix ".csv" /delimiter "|" /VERBOSE Y /PARALLEL 4 /QUIET N`
 
 
 2) To tackle the `_END not defiend error` add another step
