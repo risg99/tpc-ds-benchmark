@@ -2,6 +2,28 @@
 
 *Note: Charlotte is our concerned subject, that is why try to define even the basic stuff.*
 
+## TPC KIT Process
+
+1) Loading Data Via the TPC Generator
+
+
+`dsdgen /SCALE <value> /DIR <output_path> /suffix ".csv" /delimiter "|"`
+
+
+2) To tackle the `_END not defiend error` add another step
+Ensure that the file `query_templates/netezza.tpl` contains the following line:
+
+
+
+`define _END = "";`
+
+
+3) Converting Templates to SQL - Needs to be called iteratively
+
+
+`dsqgen /input query_templates\templates.lst /directory query_templates /dialect netezza /output_dir sqls/query1.tpl /scale 1 /verbose y /template query1.tpl`
+
+
 ## Mirwise's Findings
 
 ### What is TPC?
@@ -31,8 +53,6 @@ contains attributes which describe the details of the dimension. E.g., Product d
 is centralized by Fact table and surrounded by dimension tables such that the resultant shape of entity relational diagram resembels snowflake.
 
 \* *The definations are taken from web and requires revision for plagiarism purposes.*
-
-
 
 ## < Your-Name > Findings
 
