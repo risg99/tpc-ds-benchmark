@@ -57,3 +57,17 @@ is centralized by Fact table and surrounded by dimension tables such that the re
 ## < Your-Name > Findings
 
 Add your own findings under you own heading
+
+
+## Updates
+11/10 Ahmad:
+1) "preprocess_db_setup_load_script.ipynb" is to setup db and load data
+
+2) "query_run_test_script.ipynb" was used to do a test run on all 99 queries (took about 2.5 hrs for 1 SF, and I've identified 23 queries that need to be updated to match with postgres syntax) 
+
+3) "all_queries" folder holds the 99 queries, and also two text files, one with the list of queries with error and the other with the full result of the initial run test
+
+*********
+Next steps: From those 23 queries, we can each update some and push to git so that we don't mix it up, lemme know if u have any preference
+
+Once these 23 queries are updated, we can begin the benchmarking I believe
