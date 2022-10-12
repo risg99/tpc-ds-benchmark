@@ -36,6 +36,7 @@ TPC is **Transaction Performance Processing Counsel** formerly known as **Transa
 3. https://github.com/JimTsesm/TPC-DI
 4. https://github.com/stanislawbartkowski/mytpcds
 5. https://ankane.org/tpc-ds
+6. https://datacadamia.com/data/type/relation/benchmark/tpcds/dsqgen
 
 
 ### What is Decision Support Benchmarking?
