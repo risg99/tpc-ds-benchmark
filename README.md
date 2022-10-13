@@ -76,3 +76,6 @@ Next steps: From those 23 queries, we can each update some and push to git so th
 Note: There is a seperate folder called "updated_queries" inside "all_queries" in which we can do the updates in, so that we distinguish the initial ones in a seperate folder
 
 Once these 23 queries are updated, we can begin the benchmarking
+
+13/10 Ahmad & Rishika: 
+Fixed all errors for the 23 queries
