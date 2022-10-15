@@ -78,4 +78,7 @@ Note: There is a seperate folder called "updated_queries" inside "all_queries" i
 Once these 23 queries are updated, we can begin the benchmarking
 
 13/10 Ahmad & Rishika: 
-Fixed all errors for the 23 queries
+- Fixed all errors for the 23 queries
+
+15/10 Ahmad:
+- Added performance test script and SF 1 results
