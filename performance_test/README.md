@@ -1,0 +1,2 @@
+- All run time results are measured in seconds
+- For queries that have multiple table outputs, only the last table output has been saved in the csv file output (example: query 14)
