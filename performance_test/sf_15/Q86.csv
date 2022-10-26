@@ -1,0 +1,101 @@
+total_sum,i_category,i_class,lochierarchy,rank_within_parent
+4931036822.89,,,2,1
+509711287.83,Women                                             ,,1,1
+507886818.14,Shoes                                             ,,1,2
+497344648.34,Books                                             ,,1,3
+497065172.02,Music                                             ,,1,4
+495721488.48,Men                                               ,,1,5
+491221607.50,Jewelry                                           ,,1,6
+486845293.16,Children                                          ,,1,7
+481084937.62,Electronics                                       ,,1,8
+478264908.55,Home                                              ,,1,9
+471698555.70,Sports                                            ,,1,10
+14192105.55,,,1,11
+39162059.40,Books                                             ,history                                           ,0,1
+37562382.34,Books                                             ,fiction                                           ,0,2
+34410439.56,Books                                             ,romance                                           ,0,3
+34288919.11,Books                                             ,computers                                         ,0,4
+32541513.99,Books                                             ,home repair                                       ,0,5
+31611257.26,Books                                             ,reference                                         ,0,6
+30693987.94,Books                                             ,travel                                            ,0,7
+30018872.04,Books                                             ,self-help                                         ,0,8
+29856192.96,Books                                             ,entertainments                                    ,0,9
+29534128.22,Books                                             ,parenting                                         ,0,10
+29432555.55,Books                                             ,science                                           ,0,11
+28341672.42,Books                                             ,arts                                              ,0,12
+28337130.72,Books                                             ,cooking                                           ,0,13
+27906711.28,Books                                             ,sports                                            ,0,14
+27385966.08,Books                                             ,business                                          ,0,15
+24981866.62,Books                                             ,mystery                                           ,0,16
+1278992.85,Books                                             ,,0,17
+127379406.54,Children                                          ,infants                                           ,0,1
+123132866.11,Children                                          ,school-uniforms                                   ,0,2
+122988662.08,Children                                          ,toddlers                                          ,0,3
+112991229.76,Children                                          ,newborn                                           ,0,4
+353128.67,Children                                          ,,0,5
+37450255.60,Electronics                                       ,dvd/vcr players                                   ,0,1
+34071568.48,Electronics                                       ,karoke                                            ,0,2
+33464509.45,Electronics                                       ,televisions                                       ,0,3
+31592899.06,Electronics                                       ,monitors                                          ,0,4
+31582011.33,Electronics                                       ,stereo                                            ,0,5
+31488668.31,Electronics                                       ,disk drives                                       ,0,6
+31263290.24,Electronics                                       ,scanners                                          ,0,7
+31021499.28,Electronics                                       ,camcorders                                        ,0,8
+30248361.07,Electronics                                       ,memory                                            ,0,9
+29060050.13,Electronics                                       ,wireless                                          ,0,10
+28287806.67,Electronics                                       ,portable                                          ,0,11
+27546443.99,Electronics                                       ,automotive                                        ,0,12
+27524495.34,Electronics                                       ,cameras                                           ,0,13
+27245816.31,Electronics                                       ,personal                                          ,0,14
+26480156.31,Electronics                                       ,musical                                           ,0,15
+22757106.05,Electronics                                       ,audio                                             ,0,16
+35572904.34,Home                                              ,bedding                                           ,0,1
+34694709.23,Home                                              ,glassware                                         ,0,2
+33052415.36,Home                                              ,paint                                             ,0,3
+32445753.48,Home                                              ,furniture                                         ,0,4
+31788587.89,Home                                              ,flatware                                          ,0,5
+30876415.51,Home                                              ,curtains/drapes                                   ,0,6
+29483034.88,Home                                              ,tables                                            ,0,7
+29155888.47,Home                                              ,bathroom                                          ,0,8
+29093397.61,Home                                              ,blinds/shades                                     ,0,9
+28570511.09,Home                                              ,mattresses                                        ,0,10
+28410241.39,Home                                              ,kids                                              ,0,11
+28115567.61,Home                                              ,lighting                                          ,0,12
+27831330.35,Home                                              ,wallpaper                                         ,0,13
+27219711.47,Home                                              ,accent                                            ,0,14
+25625789.25,Home                                              ,decor                                             ,0,15
+25331415.05,Home                                              ,rugs                                              ,0,16
+997235.57,Home                                              ,,0,17
+36609351.71,Jewelry                                           ,jewelry boxes                                     ,0,1
+35038765.02,Jewelry                                           ,custom                                            ,0,2
+34360705.48,Jewelry                                           ,pendants                                          ,0,3
+34033440.36,Jewelry                                           ,gold                                              ,0,4
+33155509.70,Jewelry                                           ,estate                                            ,0,5
+32149474.71,Jewelry                                           ,diamonds                                          ,0,6
+32006000.80,Jewelry                                           ,rings                                             ,0,7
+31798176.41,Jewelry                                           ,womens watch                                      ,0,8
+31147633.30,Jewelry                                           ,costume                                           ,0,9
+30025557.79,Jewelry                                           ,mens watch                                        ,0,10
+29632979.64,Jewelry                                           ,earings                                           ,0,11
+28394762.17,Jewelry                                           ,birdal                                            ,0,12
+27460817.93,Jewelry                                           ,bracelets                                         ,0,13
+26428415.39,Jewelry                                           ,loose stones                                      ,0,14
+25644854.05,Jewelry                                           ,semi-precious                                     ,0,15
+22206377.13,Jewelry                                           ,consignment                                       ,0,16
+1128785.91,Jewelry                                           ,,0,17
+137289042.24,Men                                               ,shirts                                            ,0,1
+122587567.37,Men                                               ,accessories                                       ,0,2
+119123611.04,Men                                               ,sports-apparel                                    ,0,3
+116217797.58,Men                                               ,pants                                             ,0,4
+503470.25,Men                                               ,,0,5
+130964006.62,Music                                             ,classical                                         ,0,1
+128403559.12,Music                                             ,pop                                               ,0,2
+127319325.25,Music                                             ,country                                           ,0,3
+108469191.13,Music                                             ,rock                                              ,0,4
+1909089.90,Music                                             ,,0,5
+131832058.38,Shoes                                             ,mens                                              ,0,1
+127656912.50,Shoes                                             ,kids                                              ,0,2
+126079653.59,Shoes                                             ,womens                                            ,0,3
+122209243.20,Shoes                                             ,athletic                                          ,0,4
+108950.47,Shoes                                             ,,0,5
+35850607.75,Sports                                            ,golf                                              ,0,1

@@ -1,0 +1,52 @@
+s_store_name,s_company_id,s_street_number,s_street_name,s_street_type,s_suite_number,s_city,s_county,s_state,s_zip,30 days,31-60 days,61-90 days,91-120 days,>120 days
+able,1.0,228,Cherry ,Avenue         ,Suite G   ,Fairview,Walker County,AL,35709     ,84,52,55,66,133
+able,1.0,255,Sycamore ,Dr.            ,Suite 410 ,Midway,Ziebach County,SD,51904     ,94,64,76,69,101
+able,1.0,302,Walnut Madison,Wy             ,Suite T   ,Fairview,Ziebach County,SD,55709     ,93,60,75,65,144
+able,1.0,441,11th ,ST             ,Suite H   ,Riverside,Williamson County,TN,39231     ,99,78,61,78,132
+able,1.0,479,Park First,Lane           ,Suite 20  ,Oak Grove,Walker County,AL,38370     ,90,63,63,70,119
+able,1.0,543,West Elm,Ln             ,Suite A   ,Five Points,Walker County,AL,36098     ,83,66,60,87,106
+able,1.0,722,Railroad Spring,Ct.            ,Suite M   ,Five Points,Ziebach County,SD,56098     ,72,45,76,74,130
+anti,1.0,321,11th ,Parkway        ,Suite G   ,Pleasant Hill,Walker County,AL,33604     ,79,57,73,76,144
+anti,1.0,735,Walnut ,Blvd           ,Suite 360 ,Five Points,Walker County,AL,36098     ,90,55,56,66,120
+anti,1.0,897,Ash Oak,Circle         ,Suite T   ,Oak Grove,Williamson County,TN,38370     ,82,71,71,76,119
+ation,1.0,213,8th ,Road           ,Suite 490 ,Pleasant Hill,Williamson County,TN,33604     ,101,50,54,62,134
+ation,1.0,421,12th Center,Avenue         ,Suite J   ,Riverside,Williamson County,TN,39231     ,76,73,50,75,132
+ation,1.0,8,Cedar Maple,ST             ,Suite 320 ,Oak Grove,Williamson County,TN,38370     ,97,60,57,59,135
+ation,1.0,811,Lee ,Circle         ,Suite T   ,Oak Grove,Ziebach County,SD,58370     ,70,57,62,86,120
+bar,1.0,147,Highland ,Ln             ,Suite 270 ,Fairview,Ziebach County,SD,55709     ,96,55,69,62,138
+bar,1.0,175,4th ,Court          ,Suite C   ,Oak Grove,Williamson County,TN,38370     ,71,67,75,47,136
+bar,1.0,200,Lake ,RD             ,Suite 320 ,Pleasant Hill,Ziebach County,SD,53604     ,94,73,69,78,119
+bar,1.0,543,Twelfth ,Avenue         ,Suite L   ,Oak Grove,Ziebach County,SD,58370     ,93,43,83,51,143
+bar,1.0,582,Oak Washington,Drive          ,Suite S   ,Pleasant Hill,Walker County,AL,33604     ,73,64,71,61,133
+bar,1.0,818,1st Elm,Road           ,Suite 220 ,Pleasant Hill,Walker County,AL,33604     ,96,59,69,75,130
+bar,1.0,903,Sixth ,Court          ,Suite Q   ,Five Points,Ziebach County,SD,56098     ,87,61,73,69,131
+cally,1.0,353,Third View,Drive          ,Suite 380 ,Midway,Williamson County,TN,31904     ,90,58,62,65,122
+cally,1.0,392,15th ,Dr.            ,Suite W   ,Oak Grove,Walker County,AL,38370     ,83,64,70,53,138
+cally,1.0,496,3rd ,Ct.            ,Suite E   ,Fairview,Williamson County,TN,35709     ,102,60,66,69,123
+cally,1.0,588,View Mill,Court          ,Suite 160 ,Pleasant Hill,Ziebach County,SD,53604     ,87,67,56,69,124
+cally,1.0,606,Lake Lincoln,Boulevard      ,Suite S   ,Pleasant Hill,Williamson County,TN,33604     ,85,66,72,56,143
+cally,,688,,Avenue         ,Suite 50  ,,,TN,,99,56,70,72,121
+eing,1.0,226,12th ,Lane           ,Suite D   ,Riverside,Walker County,AL,39231     ,90,55,87,74,126
+eing,1.0,293,Center Main,Lane           ,Suite 200 ,Fairview,Ziebach County,SD,55709     ,76,69,61,61,131
+eing,1.0,303,Fifteenth ,RD             ,Suite 340 ,Pleasant Hill,Williamson County,TN,33604     ,99,58,60,62,114
+eing,1.0,317,Poplar 9th,Pkwy           ,Suite P   ,Midway,Walker County,AL,31904     ,110,74,71,58,122
+eing,1.0,317,Ridge Green,Lane           ,Suite A   ,Midway,Williamson County,TN,31904     ,79,58,73,66,112
+eing,1.0,656,Washington ,Dr.            ,Suite 50  ,Pleasant Hill,Williamson County,TN,33604     ,106,71,65,57,158
+eing,1.0,687,Ridge ,Blvd           ,Suite P   ,Riverside,Ziebach County,SD,59231     ,86,63,66,70,134
+ese,1.0,27,Lake ,Ln             ,Suite 260 ,Pleasant Hill,Williamson County,TN,33604     ,89,63,61,67,125
+ese,1.0,302,Spruce ,Court          ,Suite L   ,Fairview,Walker County,AL,35709     ,73,62,77,63,139
+ese,1.0,313,East ,Court          ,Suite 300 ,Five Points,Walker County,AL,36098     ,103,83,47,69,149
+ese,1.0,408,Washington 1st,Circle         ,Suite 390 ,Oak Grove,Ziebach County,SD,58370     ,96,66,54,63,111
+ese,1.0,462,1st Washington,Parkway        ,Suite 290 ,Five Points,Walker County,AL,36098     ,95,49,59,56,136
+ese,1.0,521,9th ,Ave            ,Suite Y   ,Pleasant Hill,Ziebach County,SD,53604     ,86,66,56,74,117
+ese,1.0,669,Locust Spring,Parkway        ,Suite E   ,Fairview,Walker County,AL,35709     ,71,66,62,53,123
+n st,1.0,240,Willow ,RD             ,Suite 280 ,Riverside,Walker County,AL,39231     ,87,69,86,65,132
+n st,1.0,495,Valley ,Lane           ,Suite D   ,Fairview,Williamson County,TN,35709     ,75,62,58,72,125
+n st,1.0,638,Cherry ,Dr.            ,Suite T   ,Riverside,Walker County,AL,39231     ,76,60,56,59,139
+ought,1.0,150,Maple Williams,Lane           ,Suite D   ,Fairview,Williamson County,TN,35709     ,79,57,62,83,121
+ought,1.0,602,Chestnut 5th,Boulevard      ,Suite C   ,Pleasant Hill,Williamson County,TN,33604     ,102,73,74,57,131
+ought,1.0,75,2nd Oak,Pkwy           ,Suite C   ,Riverside,Williamson County,TN,39231     ,90,61,54,60,124
+ought,1.0,767,Spring ,Wy             ,Suite 250 ,Pleasant Hill,Ziebach County,SD,53604     ,91,60,60,44,156
+pri,1.0,84,First ,Cir.           ,Suite 180 ,Pleasant Hill,Ziebach County,SD,53604     ,65,73,70,63,132
+pri,1.0,872,Washington ,Pkwy           ,Suite 70  ,Midway,Walker County,AL,31904     ,71,68,57,77,118
+pri,1.0,889,River Wilson,Avenue         ,Suite 210 ,Fairview,Walker County,AL,35709     ,98,69,68,71,129

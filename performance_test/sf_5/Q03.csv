@@ -1,0 +1,101 @@
+d_year,brand_id,brand,sum_agg
+1998,8005005,scholarnameless #5                                ,-4580.05
+1998,10008014,namelessunivamalg #14                             ,-5384.20
+1998,10003006,exportiunivamalg #6                               ,-6132.19
+1998,8013007,exportimaxi #7                                    ,-6603.21
+1998,6014002,edu packbrand #2                                  ,-7015.29
+1998,10014016,edu packamalgamalg #16                            ,-8065.06
+1998,2002001,importoimporto #1                                 ,-9059.31
+1998,2003001,exportiimporto #1                                 ,-11687.03
+1998,9001003,amalgmaxi #3                                      ,-12006.91
+1998,2001002,amalgimporto #2                                   ,-12582.83
+1998,6007008,brandcorp #8                                      ,-12828.25
+1998,7003004,exportibrand #4                                   ,-13573.14
+1998,10016001,corpamalgamalg #1                                 ,-15369.60
+1998,5003001,exportischolar #1                                 ,-17278.21
+1998,3003001,exportiexporti #1                                 ,-17760.12
+1998,8001003,amalgnameless #3                                  ,-18195.14
+1998,7002009,importobrand #9                                   ,-18648.40
+1998,3001002,amalgexporti #2                                   ,-19095.56
+1998,3004001,edu packexporti #1                                ,-19513.63
+1998,9003008,exportimaxi #8                                    ,-19518.31
+1998,3003002,exportiexporti #2                                 ,-20313.18
+1998,5004001,edu packscholar #1                                ,-21216.34
+1998,1004002,edu packamalg #2                                  ,-21733.57
+1998,6008001,namelesscorp #1                                   ,-23225.68
+1998,9016011,corpunivamalg #11                                 ,-27314.50
+1998,3001001,amalgexporti #1                                   ,-28247.48
+1998,9009002,maximaxi #2                                       ,-31679.55
+1998,7008003,namelessbrand #3                                  ,-34465.05
+1999,8001003,amalgnameless #3                                  ,-3057.49
+1999,6008001,namelesscorp #1                                   ,-6678.46
+1999,3001001,amalgexporti #1                                   ,-8651.69
+1999,2002001,importoimporto #1                                 ,-9552.71
+1999,9009002,maximaxi #2                                       ,-9694.45
+1999,9001003,amalgmaxi #3                                      ,-10347.41
+1999,3004001,edu packexporti #1                                ,-11045.16
+1999,10014016,edu packamalgamalg #16                            ,-11314.16
+1999,10008014,namelessunivamalg #14                             ,-12153.66
+1999,10003006,exportiunivamalg #6                               ,-14201.43
+1999,8013007,exportimaxi #7                                    ,-14718.09
+1999,8005005,scholarnameless #5                                ,-14787.42
+1999,3001002,amalgexporti #2                                   ,-16643.01
+1999,5004001,edu packscholar #1                                ,-17710.47
+1999,6014002,edu packbrand #2                                  ,-18104.62
+1999,5003001,exportischolar #1                                 ,-18500.55
+1999,9016011,corpunivamalg #11                                 ,-18934.39
+1999,9003008,exportimaxi #8                                    ,-19278.26
+1999,6007008,brandcorp #8                                      ,-19749.95
+1999,10016001,corpamalgamalg #1                                 ,-20828.90
+1999,7003004,exportibrand #4                                   ,-21194.15
+1999,7008003,namelessbrand #3                                  ,-21523.63
+1999,7002009,importobrand #9                                   ,-21883.17
+1999,3003002,exportiexporti #2                                 ,-22961.92
+1999,2001002,amalgimporto #2                                   ,-24218.57
+1999,2003001,exportiimporto #1                                 ,-25987.02
+1999,3003001,exportiexporti #1                                 ,-28860.89
+1999,1004002,edu packamalg #2                                  ,-39579.80
+2000,10008014,exportiexporti #2                                 ,11007.83
+2000,9003008,exportimaxi #8                                    ,-2452.26
+2000,6014004,edu packbrand #4                                  ,-3765.82
+2000,10010011,univamalgamalg #11                                ,-4614.34
+2000,2001002,amalgimporto #2                                   ,-5624.27
+2000,10016011,corpamalgamalg #11                                ,-5835.34
+2000,9001003,amalgmaxi #3                                      ,-6557.90
+2000,10016001,corpamalgamalg #1                                 ,-6721.02
+2000,3002002,importoexporti #2                                 ,-6728.22
+2000,2002002,importoimporto #2                                 ,-7338.69
+2000,9014012,edu packunivamalg #12                             ,-9580.30
+2000,5003001,exportischolar #1                                 ,-10696.79
+2000,3004001,edu packbrand #6                                  ,-11218.81
+2000,9009002,maximaxi #2                                       ,-12262.50
+2000,10003006,exportiunivamalg #6                               ,-12511.04
+2000,7003004,exportibrand #4                                   ,-12712.30
+2000,10014016,exportiunivamalg #12                              ,-12876.64
+2000,8013007,exportimaxi #7                                    ,-13347.69
+2000,6014002,edu packbrand #2                                  ,-15306.28
+2000,2002001,importoimporto #1                                 ,-16548.68
+2000,4003002,exportiedu pack #2                                ,-17638.72
+2000,3003001,amalgnameless #8                                  ,-19703.90
+2000,3003002,exportiexporti #2                                 ,-20108.08
+2000,3001002,amalgexporti #2                                   ,-21050.14
+2000,6007008,brandcorp #8                                      ,-22494.02
+2000,3003001,exportiexporti #1                                 ,-24533.26
+2000,1004002,edu packamalg #2                                  ,-30347.20
+2000,2003001,exportiimporto #1                                 ,-45669.33
+2001,3004001,edu packbrand #6                                  ,384.66
+2001,10014016,exportiunivamalg #12                              ,-2914.07
+2001,3003002,exportiexporti #2                                 ,-7800.00
+2001,7003004,exportibrand #4                                   ,-7800.45
+2001,3004001,importoamalg #2                                   ,-8242.26
+2001,6014004,edu packbrand #4                                  ,-10563.22
+2001,3001002,amalgexporti #2                                   ,-11496.25
+2001,4003001,importoamalg #2                                   ,-11747.86
+2001,6014002,edu packbrand #2                                  ,-12879.48
+2001,5003002,exportischolar #2                                 ,-13168.33
+2001,6007008,brandcorp #8                                      ,-13694.58
+2001,3002002,importoexporti #2                                 ,-14509.61
+2001,9014012,edu packunivamalg #12                             ,-15625.62
+2001,2002002,importoimporto #2                                 ,-16243.63
+2001,10008014,exportiexporti #2                                 ,-16720.48
+2001,10010011,univamalgamalg #11                                ,-18626.38

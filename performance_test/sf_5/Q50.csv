@@ -1,0 +1,28 @@
+s_store_name,s_company_id,s_street_number,s_street_name,s_street_type,s_suite_number,s_city,s_county,s_state,s_zip,30 days,31-60 days,61-90 days,91-120 days,>120 days
+able,1.0,228,Cherry ,Avenue         ,Suite G   ,Fairview,Williamson County,TN,35709     ,86,68,75,57,118
+able,1.0,255,Sycamore ,Dr.            ,Suite 410 ,Midway,Williamson County,TN,31904     ,78,62,74,72,120
+able,1.0,302,Walnut Madison,Wy             ,Suite T   ,Fairview,Williamson County,TN,35709     ,99,62,60,62,98
+able,1.0,479,Park First,Lane           ,Suite 20  ,Oak Grove,Williamson County,TN,38370     ,90,64,66,58,115
+anti,1.0,735,Walnut ,Blvd           ,Suite 360 ,Midway,Williamson County,TN,31904     ,72,69,50,60,112
+ation,1.0,213,8th ,Road           ,Suite 490 ,Fairview,Williamson County,TN,35709     ,87,63,64,53,119
+ation,1.0,811,Lee ,Circle         ,Suite T   ,Oak Grove,Williamson County,TN,38370     ,81,67,67,73,119
+bar,1.0,175,4th ,Court          ,Suite C   ,Oak Grove,Williamson County,TN,38370     ,79,55,71,45,116
+bar,1.0,200,Lake ,RD             ,Suite 320 ,Fairview,Williamson County,TN,35709     ,88,54,67,63,119
+bar,1.0,543,Twelfth ,Avenue         ,Suite L   ,Oak Grove,Williamson County,TN,38370     ,81,58,58,61,148
+bar,1.0,818,1st Elm,Road           ,Suite 220 ,Fairview,Williamson County,TN,35709     ,85,54,56,57,132
+cally,1.0,496,3rd ,Ct.            ,Suite E   ,Fairview,Williamson County,TN,35709     ,94,62,70,64,127
+cally,1.0,588,View Mill,Court          ,Suite 160 ,Fairview,Williamson County,TN,35709     ,98,59,48,70,139
+cally,,688,,Avenue         ,Suite 50  ,,,TN,,74,67,57,64,133
+eing,1.0,226,12th ,Lane           ,Suite D   ,Oak Grove,Williamson County,TN,38370     ,78,56,62,62,119
+eing,1.0,293,Center Main,Lane           ,Suite 200 ,Fairview,Williamson County,TN,35709     ,78,59,69,53,108
+eing,1.0,317,Poplar 9th,Pkwy           ,Suite P   ,Midway,Williamson County,TN,31904     ,78,48,84,69,127
+ese,1.0,27,Lake ,Ln             ,Suite 260 ,Fairview,Williamson County,TN,35709     ,96,62,57,58,111
+ese,1.0,302,Spruce ,Court          ,Suite L   ,Fairview,Williamson County,TN,35709     ,79,68,64,64,99
+ese,1.0,313,East ,Court          ,Suite 300 ,Midway,Williamson County,TN,31904     ,96,72,74,61,125
+ese,1.0,408,Washington 1st,Circle         ,Suite 390 ,Oak Grove,Williamson County,TN,38370     ,86,64,78,57,140
+n st,1.0,240,Willow ,RD             ,Suite 280 ,Oak Grove,Williamson County,TN,38370     ,96,54,59,47,123
+n st,1.0,495,Valley ,Lane           ,Suite D   ,Fairview,Williamson County,TN,35709     ,69,64,67,71,124
+ought,1.0,75,2nd Oak,Pkwy           ,Suite C   ,Oak Grove,Williamson County,TN,38370     ,79,66,53,57,125
+ought,1.0,767,Spring ,Wy             ,Suite 250 ,Fairview,Williamson County,TN,35709     ,73,56,52,71,131
+pri,1.0,84,First ,Cir.           ,Suite 180 ,Fairview,Williamson County,TN,35709     ,86,55,71,78,129
+pri,1.0,872,Washington ,Pkwy           ,Suite 70  ,Midway,Williamson County,TN,31904     ,93,65,51,65,107

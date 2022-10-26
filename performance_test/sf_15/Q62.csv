@@ -1,0 +1,101 @@
+substr,sm_type,web_name,30 days,31-60 days,61-90 days,91-120 days,>120 days
+Bad cards must make.,EXPRESS                       ,site_0,4094,3967,3997,4061,0
+Bad cards must make.,EXPRESS                       ,site_1,4013,3984,4020,4129,0
+Bad cards must make.,EXPRESS                       ,site_2,4459,4562,4408,4617,0
+Bad cards must make.,EXPRESS                       ,site_3,4517,4491,4522,4486,0
+Bad cards must make.,EXPRESS                       ,site_4,4439,4570,4360,4643,0
+Bad cards must make.,LIBRARY                       ,site_0,3588,3608,3619,3541,0
+Bad cards must make.,LIBRARY                       ,site_1,3123,3046,3149,3183,0
+Bad cards must make.,LIBRARY                       ,site_2,2824,2673,2747,2673,0
+Bad cards must make.,LIBRARY                       ,site_3,3051,3259,3070,3147,0
+Bad cards must make.,LIBRARY                       ,site_4,3591,3625,3654,3518,0
+Bad cards must make.,NEXT DAY                      ,site_0,4079,4094,4082,4029,0
+Bad cards must make.,NEXT DAY                      ,site_1,4356,4630,4416,4574,0
+Bad cards must make.,NEXT DAY                      ,site_2,4567,4361,4605,4425,0
+Bad cards must make.,NEXT DAY                      ,site_3,4513,4640,4417,4682,0
+Bad cards must make.,NEXT DAY                      ,site_4,4075,4173,4076,4078,0
+Bad cards must make.,OVERNIGHT                     ,site_0,3048,3162,3065,3153,0
+Bad cards must make.,OVERNIGHT                     ,site_1,3612,3536,3613,3480,0
+Bad cards must make.,OVERNIGHT                     ,site_2,3563,3554,3682,3499,0
+Bad cards must make.,OVERNIGHT                     ,site_3,3050,3293,3164,3171,0
+Bad cards must make.,OVERNIGHT                     ,site_4,2835,2532,2849,2539,0
+Bad cards must make.,REGULAR                       ,site_0,3088,3216,3248,3230,0
+Bad cards must make.,REGULAR                       ,site_1,2741,2610,2909,2577,0
+Bad cards must make.,REGULAR                       ,site_2,3133,3090,3274,3256,0
+Bad cards must make.,REGULAR                       ,site_3,3548,3631,3543,3611,0
+Bad cards must make.,REGULAR                       ,site_4,3582,3567,3624,3432,0
+Bad cards must make.,TWO DAY                       ,site_0,3607,3457,3629,3531,0
+Bad cards must make.,TWO DAY                       ,site_1,3696,3542,3730,3539,0
+Bad cards must make.,TWO DAY                       ,site_2,3098,3269,3093,3218,0
+Bad cards must make.,TWO DAY                       ,site_3,2754,2515,2893,2603,0
+Bad cards must make.,TWO DAY                       ,site_4,3151,3113,3138,3254,0
+Conventional childr,EXPRESS                       ,site_0,4599,4378,4615,4483,0
+Conventional childr,EXPRESS                       ,site_1,4016,4078,4091,4013,0
+Conventional childr,EXPRESS                       ,site_2,3995,4076,4026,4105,0
+Conventional childr,EXPRESS                       ,site_3,4633,4253,4531,4413,0
+Conventional childr,EXPRESS                       ,site_4,4484,4493,4463,4575,0
+Conventional childr,LIBRARY                       ,site_0,3714,3464,3640,3546,0
+Conventional childr,LIBRARY                       ,site_1,3576,3682,3628,3630,0
+Conventional childr,LIBRARY                       ,site_2,3150,3083,3116,3111,0
+Conventional childr,LIBRARY                       ,site_3,2703,2727,2622,2790,0
+Conventional childr,LIBRARY                       ,site_4,3200,3162,3151,3110,0
+Conventional childr,NEXT DAY                      ,site_0,3962,3945,4115,4144,0
+Conventional childr,NEXT DAY                      ,site_1,3969,4149,4056,4040,0
+Conventional childr,NEXT DAY                      ,site_2,4568,4446,4602,4407,0
+Conventional childr,NEXT DAY                      ,site_3,4467,4522,4440,4662,0
+Conventional childr,NEXT DAY                      ,site_4,4600,4430,4535,4591,0
+Conventional childr,OVERNIGHT                     ,site_0,2656,2770,2606,2809,0
+Conventional childr,OVERNIGHT                     ,site_1,3146,3063,3149,3059,0
+Conventional childr,OVERNIGHT                     ,site_2,3646,3531,3579,3569,0
+Conventional childr,OVERNIGHT                     ,site_3,3545,3631,3560,3579,0
+Conventional childr,OVERNIGHT                     ,site_4,3209,3047,3186,3078,0
+Conventional childr,REGULAR                       ,site_0,3463,3619,3467,3636,0
+Conventional childr,REGULAR                       ,site_1,3193,3090,3228,3060,0
+Conventional childr,REGULAR                       ,site_2,2643,2663,2713,2685,0
+Conventional childr,REGULAR                       ,site_3,3150,3164,3200,3076,0
+Conventional childr,REGULAR                       ,site_4,3688,3485,3613,3538,0
+Conventional childr,TWO DAY                       ,site_0,3155,3226,3178,3097,0
+Conventional childr,TWO DAY                       ,site_1,3560,3546,3543,3544,0
+Conventional childr,TWO DAY                       ,site_2,3586,3583,3569,3641,0
+Conventional childr,TWO DAY                       ,site_3,3157,3163,3262,3158,0
+Conventional childr,TWO DAY                       ,site_4,2673,2809,2582,2777,0
+Doors canno,EXPRESS                       ,site_0,4492,4427,4437,4566,0
+Doors canno,EXPRESS                       ,site_1,4434,4477,4495,4473,0
+Doors canno,EXPRESS                       ,site_2,4050,4128,3861,3958,0
+Doors canno,EXPRESS                       ,site_3,3970,4011,4041,4012,0
+Doors canno,EXPRESS                       ,site_4,4495,4490,4469,4646,0
+Doors canno,LIBRARY                       ,site_0,3099,3188,3173,3203,0
+Doors canno,LIBRARY                       ,site_1,3642,3617,3613,3717,0
+Doors canno,LIBRARY                       ,site_2,3651,3573,3655,3513,0
+Doors canno,LIBRARY                       ,site_3,3067,3151,3184,3101,0
+Doors canno,LIBRARY                       ,site_4,2585,2688,2730,2798,0
+Doors canno,NEXT DAY                      ,site_0,4649,4471,4428,4440,0
+Doors canno,NEXT DAY                      ,site_1,3997,3989,4012,4112,0
+Doors canno,NEXT DAY                      ,site_2,4168,3960,3976,4049,0
+Doors canno,NEXT DAY                      ,site_3,4438,4378,4514,4523,0
+Doors canno,NEXT DAY                      ,site_4,4427,4452,4483,4439,0
+Doors canno,OVERNIGHT                     ,site_0,3061,3244,3122,3136,0
+Doors canno,OVERNIGHT                     ,site_1,2737,2669,2776,2712,0
+Doors canno,OVERNIGHT                     ,site_2,3160,3157,3192,3197,0
+Doors canno,OVERNIGHT                     ,site_3,3603,3590,3581,3517,0
+Doors canno,OVERNIGHT                     ,site_4,3700,3476,3649,3569,0
+Doors canno,REGULAR                       ,site_0,3481,3642,3543,3663,0
+Doors canno,REGULAR                       ,site_1,3645,3511,3615,3501,0
+Doors canno,REGULAR                       ,site_2,3209,3180,3206,3079,0
+Doors canno,REGULAR                       ,site_3,2687,2765,2502,2854,0
+Doors canno,REGULAR                       ,site_4,3139,3112,3123,3203,0
+Doors canno,TWO DAY                       ,site_0,2777,2621,2708,2677,0
+Doors canno,TWO DAY                       ,site_1,3081,3153,3253,3087,0
+Doors canno,TWO DAY                       ,site_2,3552,3515,3558,3659,0
+Doors canno,TWO DAY                       ,site_3,3641,3569,3576,3615,0
+Doors canno,TWO DAY                       ,site_4,3088,3196,3187,3199,0
+Important issues liv,EXPRESS                       ,site_0,4011,4150,4094,4139,0
+Important issues liv,EXPRESS                       ,site_1,4603,4453,4518,4437,0
+Important issues liv,EXPRESS                       ,site_2,4502,4670,4384,4635,0
+Important issues liv,EXPRESS                       ,site_3,4556,4342,4615,4369,0
+Important issues liv,EXPRESS                       ,site_4,4030,4048,3966,3914,0
+Important issues liv,LIBRARY                       ,site_0,3281,3164,3106,3086,0
+Important issues liv,LIBRARY                       ,site_1,2556,2755,2530,2824,0
+Important issues liv,LIBRARY                       ,site_2,3163,3044,3174,3086,0
+Important issues liv,LIBRARY                       ,site_3,3500,3653,3549,3599,0
+Important issues liv,LIBRARY                       ,site_4,3604,3760,3571,3554,0

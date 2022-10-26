@@ -1,0 +1,101 @@
+c_last_name,c_first_name,ca_city,bought_city,ss_ticket_number,amt,profit
+Aaron                         ,Billy               ,Springfield,Greenwood,895117,563.88,-9061.87
+Aaron                         ,Billy               ,Springfield,Newport,3394440,255.35,-23329.92
+Aaron                         ,Billy               ,Springfield,Pleasant Hill,3547052,52.56,-8025.77
+Aaron                         ,Billy               ,Springfield,Sulphur Springs,128928,681.48,-14479.11
+Aaron                         ,Charles             ,Mayfield,Bethel,1676972,1434.35,-9819.18
+Aaron                         ,Charles             ,Mayfield,Hamilton,2632975,2264.91,-9195.73
+Aaron                         ,Charles             ,Mayfield,Hopewell,662054,1579.07,-12016.88
+Aaron                         ,Charles             ,Mayfield,Oakwood,406912,7007.14,-16215.20
+Aaron                         ,Elmer               ,Sugar Hill,Friendship,1194123,69.55,-5420.44
+Aaron                         ,Henry               ,Antioch,Franklin,1146924,549.01,-9668.73
+Aaron                         ,Henry               ,Antioch,Sunnyside,2389714,12775.72,-27111.91
+Aaron                         ,Jon                 ,Marion,Belmont,1035147,0.00,1197.72
+Aaron                         ,Jon                 ,Marion,Hamilton,772232,35.54,-6157.05
+Aaron                         ,Jon                 ,Marion,Little River,2225910,1806.75,-12153.04
+Aaron                         ,Joyce               ,Antioch,Jackson,929292,713.64,-11031.07
+Aaron                         ,Joyce               ,Antioch,Unionville,2113632,520.47,-12835.83
+Aaron                         ,Martha              ,Brookwood,Bunker Hill,575633,5783.79,-11631.36
+Aaron                         ,Neil                ,Kingston,Greenwood,2055241,2071.51,-12519.70
+Abbott                        ,Aaron               ,Five Forks,Jackson,2461782,698.84,2984.63
+Abbott                        ,Angelica            ,Edgewood,Saint Johns,311452,2485.79,-15382.12
+Abbott                        ,Anthony             ,Harmony,Clifton,3444881,537.49,-5333.41
+Abbott                        ,Anthony             ,Harmony,Greenfield,1617334,4151.56,-12443.95
+Abbott                        ,Bruce               ,Clifton,Mount Vernon,1085215,901.72,-2294.85
+Abbott                        ,Bruce               ,Clifton,Oak Ridge,3388026,200.97,-1009.23
+Abbott                        ,Calvin              ,Stringtown,Lakeview,1403248,629.53,5043.74
+Abbott                        ,Calvin              ,Stringtown,Wilson,2517067,4338.04,-16576.94
+Abbott                        ,Charles             ,Elm Grove,Union,658109,11.00,2487.71
+Abbott                        ,Charles             ,Elm Grove,Walnut Grove,281124,2119.14,-17008.99
+Abbott                        ,Don                 ,Liberty,Lebanon,3461301,0.00,528.37
+Abbott                        ,Don                 ,Liberty,Union,2607466,423.38,-1942.61
+Abbott                        ,Edward              ,Concord,Highland Park,565084,1286.20,-8439.21
+Abbott                        ,Esther              ,Waterloo,Florence,718946,1935.17,-18630.60
+Abbott                        ,Fred                ,Florence,Hillcrest,2049112,75.27,-5108.63
+Abbott                        ,Frederick           ,Wildwood,Richville,2331814,1266.67,-11394.18
+Abbott                        ,Garry               ,Lakeview,Bridgeport,2384174,0.00,-11497.41
+Abbott                        ,Geneva              ,Pleasant Hill,Glendale,2083701,420.82,-12007.62
+Abbott                        ,Genevieve           ,Stringtown,Midway,3529467,2114.84,-17261.40
+Abbott                        ,Genevieve           ,Stringtown,Waterloo,2691485,3050.68,-5587.57
+Abbott                        ,Graciela            ,Pine Grove,Blair,1316183,788.64,-8935.13
+Abbott                        ,Kathlyn             ,Brownsville,Edgewood,251112,3420.13,-21706.60
+Abbott                        ,Laura               ,Belmont,Friendship,2802452,0.00,-5402.37
+Abbott                        ,Laura               ,Belmont,Salem,2674247,2333.80,-19502.80
+Abbott                        ,Lina                ,Hastings,Maple Grove,1184388,5350.59,-12108.13
+Abbott                        ,Marceline           ,Clearview,Clinton,343465,746.08,-7594.76
+Abbott                        ,Matthew             ,Mountain View,Pleasant Valley,1033622,1287.85,-6219.49
+Abbott                        ,Norma               ,Clifton,Plainview,1516752,2936.26,-14777.67
+Abbott                        ,Patrick             ,Crossroads,Hopewell,2340944,3462.04,-8292.67
+Abbott                        ,Phillip             ,Greenfield,New Hope,1335726,82.92,873.87
+Abbott                        ,Travis              ,Mountain View,Harmony,522695,4834.52,-9640.17
+Abbott                        ,Wayne               ,Antioch,Riverside,1556356,2156.29,-7278.62
+Abbott                        ,William             ,Sulphur Springs,Montpelier,1186151,0.00,-14578.45
+Abel                          ,Amy                 ,Lakeville,Waterloo,1541039,11.97,-474.17
+Abel                          ,Aura                ,Union,Buena Vista,2373440,1227.75,-6926.01
+Abel                          ,Aura                ,Union,Greenwood,679889,1401.02,-7213.80
+Abel                          ,Aura                ,Union,Springfield,2701806,554.38,-11208.72
+Abel                          ,David               ,Hamilton,Hopewell,1600628,144.14,-2248.02
+Abel                          ,Debra               ,Green Acres,Belmont,827484,3309.27,-1388.75
+Abel                          ,Debra               ,Green Acres,Oak Grove,1174501,3009.94,-12031.74
+Abel                          ,Debra               ,Green Acres,Sunnyside,775567,0.00,-6728.58
+Abel                          ,Flora               ,Bunker Hill,Summit,448214,178.90,-11352.52
+Abel                          ,Helen               ,Mountain View,Spring Hill,3211892,0.00,-5180.24
+Abel                          ,Ida                 ,Mount Zion,Spring Hill,927933,894.11,-11180.14
+Abel                          ,Jason               ,Ridgeville,Ashland,3089270,0.00,-5479.80
+Abel                          ,Jason               ,Ridgeville,Concord,1488862,0.00,-9322.10
+Abel                          ,Joseph              ,Peru,White Oak,3446917,701.74,-695.20
+Abel                          ,Kathleen            ,Unionville,Fairview,868422,2271.87,-7475.74
+Abel                          ,Lori                ,Liberty,Bethel,726640,446.36,-7127.19
+Abel                          ,Lori                ,Liberty,Lincoln,1935276,612.56,-4441.92
+Abel                          ,Mark                ,Forest Hills,Hopewell,2885569,186.27,-3320.08
+Abel                          ,Marlene             ,Shady Grove,Hamilton,835233,0.00,-9777.26
+Abel                          ,Marlene             ,Shady Grove,Walnut Grove,2655060,0.00,1444.32
+Abel                          ,Micheal             ,Pleasant Valley,Crossroads,2733840,0.49,-9589.03
+Abel                          ,Richard             ,Spring Valley,Arlington,626001,0.00,-6302.08
+Abel                          ,Richard             ,Spring Valley,Spring Hill,3550576,0.00,-4532.38
+Abell                         ,James               ,Pleasant Grove,Glendale,2508451,1323.30,-4478.02
+Abell                         ,Jason               ,White Oak,Walnut Grove,447235,1524.73,-9676.95
+Abell                         ,Paul                ,Mount Pleasant,Woodland,2654267,321.53,-4538.52
+Abernathy                     ,Anna                ,Greenwood,Lebanon,3383903,179.74,-8541.20
+Abernathy                     ,Anna                ,Greenwood,Summit,1602725,2358.74,-3859.81
+Abernathy                     ,Anthony             ,Fairfield,Hamilton,1015099,1592.95,-8994.00
+Abernathy                     ,Eduardo             ,New Hope,Crossroads,42850,5777.05,-6291.75
+Abernathy                     ,Helen               ,Newtown,Harmony,2291256,9648.26,-14789.31
+Abernathy                     ,Helen               ,Newtown,Maple Grove,2517459,2552.76,-17518.75
+Abernathy                     ,Helen               ,Newtown,Mount Zion,2336078,43.56,-17006.28
+Abernathy                     ,Jacob               ,Ashland,Spring Hill,223414,3122.56,-13240.70
+Abernathy                     ,Jeffrey             ,Oak Hill,Georgetown,839585,754.79,-6123.88
+Abernathy                     ,John                ,Red Hill,Red Oak,2400337,3035.58,-2983.56
+Abernathy                     ,Joyce               ,Riverside,Edgewood,114,286.99,-12862.22
+Abernathy                     ,Rosemarie           ,Walnut Grove,Harmony,3182903,1687.28,-8366.61
+Abernathy                     ,Verda               ,Lakeview,Greenfield,2023898,10334.33,-12501.10
+Abernathy                     ,Wendy               ,New Hope,Summerfield,167468,705.28,-3421.08
+Abernathy                     ,William             ,Jackson,Clinton,597629,5552.87,-3198.19
+Abernathy                     ,William             ,Jackson,Riverside,2123222,2357.86,-678.61
+Abernathy                     ,,Macedonia,Kingston,942125,0.00,-1536.93
+Abner                         ,Debra               ,Woodville,Pine Grove,1192977,7320.51,-13245.64
+Abner                         ,Eula                ,Greenville,Littleton,352816,55.33,-6977.48
+Abner                         ,Lane                ,Thompsonville,Mountain View,3359634,0.00,-2405.22
+Abner                         ,Michael             ,Hillcrest,Centerville,1410005,1569.71,-1078.48
+Abner                         ,Tony                ,Hopewell,Arlington,1126535,53.23,-18019.38
+Abner                         ,Tony                ,Hopewell,Farmington,646410,2482.47,-19278.05

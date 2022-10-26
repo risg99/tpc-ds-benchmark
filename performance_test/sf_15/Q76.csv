@@ -1,0 +1,101 @@
+channel,col_name,d_year,d_qoy,i_category,sales_cnt,sales_amt
+catalog,cs_bill_customer_sk,1998,1,Books                                             ,152,174871.17
+catalog,cs_bill_customer_sk,1998,1,Children                                          ,125,152133.95
+catalog,cs_bill_customer_sk,1998,1,Electronics                                       ,141,194336.42
+catalog,cs_bill_customer_sk,1998,1,Home                                              ,157,183142.73
+catalog,cs_bill_customer_sk,1998,1,Jewelry                                           ,126,212055.35
+catalog,cs_bill_customer_sk,1998,1,Men                                               ,164,169614.37
+catalog,cs_bill_customer_sk,1998,1,Music                                             ,165,201583.31
+catalog,cs_bill_customer_sk,1998,1,Shoes                                             ,146,163746.39
+catalog,cs_bill_customer_sk,1998,1,Sports                                            ,141,210228.38
+catalog,cs_bill_customer_sk,1998,1,Women                                             ,142,245713.85
+catalog,cs_bill_customer_sk,1998,1,,8,15879.22
+catalog,cs_bill_customer_sk,1998,2,Books                                             ,144,149851.54
+catalog,cs_bill_customer_sk,1998,2,Children                                          ,132,232320.13
+catalog,cs_bill_customer_sk,1998,2,Electronics                                       ,149,222997.00
+catalog,cs_bill_customer_sk,1998,2,Home                                              ,140,193257.33
+catalog,cs_bill_customer_sk,1998,2,Jewelry                                           ,145,159640.02
+catalog,cs_bill_customer_sk,1998,2,Men                                               ,155,160933.37
+catalog,cs_bill_customer_sk,1998,2,Music                                             ,167,137972.39
+catalog,cs_bill_customer_sk,1998,2,Shoes                                             ,150,180040.66
+catalog,cs_bill_customer_sk,1998,2,Sports                                            ,149,275043.21
+catalog,cs_bill_customer_sk,1998,2,Women                                             ,149,187009.32
+catalog,cs_bill_customer_sk,1998,2,,2,488.28
+catalog,cs_bill_customer_sk,1998,3,Books                                             ,298,402003.28
+catalog,cs_bill_customer_sk,1998,3,Children                                          ,301,379584.16
+catalog,cs_bill_customer_sk,1998,3,Electronics                                       ,298,277883.80
+catalog,cs_bill_customer_sk,1998,3,Home                                              ,262,371079.25
+catalog,cs_bill_customer_sk,1998,3,Jewelry                                           ,293,395100.73
+catalog,cs_bill_customer_sk,1998,3,Men                                               ,280,368723.40
+catalog,cs_bill_customer_sk,1998,3,Music                                             ,299,418814.16
+catalog,cs_bill_customer_sk,1998,3,Shoes                                             ,319,407288.08
+catalog,cs_bill_customer_sk,1998,3,Sports                                            ,315,373011.42
+catalog,cs_bill_customer_sk,1998,3,Women                                             ,294,340441.12
+catalog,cs_bill_customer_sk,1998,3,,6,1616.94
+catalog,cs_bill_customer_sk,1998,4,Books                                             ,468,605537.54
+catalog,cs_bill_customer_sk,1998,4,Children                                          ,464,595324.23
+catalog,cs_bill_customer_sk,1998,4,Electronics                                       ,531,692227.83
+catalog,cs_bill_customer_sk,1998,4,Home                                              ,442,577320.12
+catalog,cs_bill_customer_sk,1998,4,Jewelry                                           ,502,545308.76
+catalog,cs_bill_customer_sk,1998,4,Men                                               ,445,609307.25
+catalog,cs_bill_customer_sk,1998,4,Music                                             ,444,545284.08
+catalog,cs_bill_customer_sk,1998,4,Shoes                                             ,490,657324.93
+catalog,cs_bill_customer_sk,1998,4,Sports                                            ,463,583351.98
+catalog,cs_bill_customer_sk,1998,4,Women                                             ,481,670940.01
+catalog,cs_bill_customer_sk,1998,4,,21,48829.32
+catalog,cs_bill_customer_sk,1999,1,Books                                             ,136,136076.70
+catalog,cs_bill_customer_sk,1999,1,Children                                          ,153,211550.91
+catalog,cs_bill_customer_sk,1999,1,Electronics                                       ,160,209601.33
+catalog,cs_bill_customer_sk,1999,1,Home                                              ,180,218806.55
+catalog,cs_bill_customer_sk,1999,1,Jewelry                                           ,148,192951.15
+catalog,cs_bill_customer_sk,1999,1,Men                                               ,145,235234.99
+catalog,cs_bill_customer_sk,1999,1,Music                                             ,168,213351.94
+catalog,cs_bill_customer_sk,1999,1,Shoes                                             ,155,208223.82
+catalog,cs_bill_customer_sk,1999,1,Sports                                            ,156,267704.49
+catalog,cs_bill_customer_sk,1999,1,Women                                             ,147,223153.06
+catalog,cs_bill_customer_sk,1999,1,,1,208.00
+catalog,cs_bill_customer_sk,1999,2,Books                                             ,145,180626.64
+catalog,cs_bill_customer_sk,1999,2,Children                                          ,145,129645.33
+catalog,cs_bill_customer_sk,1999,2,Electronics                                       ,176,255312.24
+catalog,cs_bill_customer_sk,1999,2,Home                                              ,151,222634.09
+catalog,cs_bill_customer_sk,1999,2,Jewelry                                           ,154,139459.97
+catalog,cs_bill_customer_sk,1999,2,Men                                               ,167,186710.88
+catalog,cs_bill_customer_sk,1999,2,Music                                             ,155,186743.65
+catalog,cs_bill_customer_sk,1999,2,Shoes                                             ,162,228623.51
+catalog,cs_bill_customer_sk,1999,2,Sports                                            ,148,184351.48
+catalog,cs_bill_customer_sk,1999,2,Women                                             ,158,190261.44
+catalog,cs_bill_customer_sk,1999,2,,5,2342.25
+catalog,cs_bill_customer_sk,1999,3,Books                                             ,289,411564.83
+catalog,cs_bill_customer_sk,1999,3,Children                                          ,252,261567.53
+catalog,cs_bill_customer_sk,1999,3,Electronics                                       ,289,312418.10
+catalog,cs_bill_customer_sk,1999,3,Home                                              ,267,377926.22
+catalog,cs_bill_customer_sk,1999,3,Jewelry                                           ,297,509038.51
+catalog,cs_bill_customer_sk,1999,3,Men                                               ,292,395348.25
+catalog,cs_bill_customer_sk,1999,3,Music                                             ,314,405448.69
+catalog,cs_bill_customer_sk,1999,3,Shoes                                             ,299,297249.03
+catalog,cs_bill_customer_sk,1999,3,Sports                                            ,274,361322.10
+catalog,cs_bill_customer_sk,1999,3,Women                                             ,277,300299.94
+catalog,cs_bill_customer_sk,1999,3,,6,13016.50
+catalog,cs_bill_customer_sk,1999,4,Books                                             ,457,534436.50
+catalog,cs_bill_customer_sk,1999,4,Children                                          ,468,484060.43
+catalog,cs_bill_customer_sk,1999,4,Electronics                                       ,454,504077.64
+catalog,cs_bill_customer_sk,1999,4,Home                                              ,461,605329.73
+catalog,cs_bill_customer_sk,1999,4,Jewelry                                           ,488,639860.95
+catalog,cs_bill_customer_sk,1999,4,Men                                               ,467,556630.46
+catalog,cs_bill_customer_sk,1999,4,Music                                             ,523,641856.16
+catalog,cs_bill_customer_sk,1999,4,Shoes                                             ,467,620318.79
+catalog,cs_bill_customer_sk,1999,4,Sports                                            ,481,547298.15
+catalog,cs_bill_customer_sk,1999,4,Women                                             ,449,627183.08
+catalog,cs_bill_customer_sk,1999,4,,14,16325.39
+catalog,cs_bill_customer_sk,2000,1,Books                                             ,143,164369.49
+catalog,cs_bill_customer_sk,2000,1,Children                                          ,143,219715.90
+catalog,cs_bill_customer_sk,2000,1,Electronics                                       ,157,207264.02
+catalog,cs_bill_customer_sk,2000,1,Home                                              ,152,171606.93
+catalog,cs_bill_customer_sk,2000,1,Jewelry                                           ,168,209042.77
+catalog,cs_bill_customer_sk,2000,1,Men                                               ,160,198798.88
+catalog,cs_bill_customer_sk,2000,1,Music                                             ,148,183656.16
+catalog,cs_bill_customer_sk,2000,1,Shoes                                             ,160,238624.91
+catalog,cs_bill_customer_sk,2000,1,Sports                                            ,145,173031.90
+catalog,cs_bill_customer_sk,2000,1,Women                                             ,141,210719.56
+catalog,cs_bill_customer_sk,2000,1,,7,968.68
+catalog,cs_bill_customer_sk,2000,2,Books                                             ,152,211033.21

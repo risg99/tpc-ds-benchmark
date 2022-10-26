@@ -1,0 +1,101 @@
+c_last_name,c_first_name,substr,ss_ticket_number,amt,profit
+Aaron                         ,Laurie              ,Riverside,2361395,6504.22,-14699.18
+Abbott                        ,Alan                ,Fairview,408075,3733.42,-4444.59
+Abbott                        ,Chang               ,Five Points,1078238,2226.36,-14212.86
+Abbott                        ,Michele             ,Pleasant Hill,1772839,3133.12,-5853.97
+Abbott                        ,Phillip             ,Pleasant Hill,1317281,542.26,-15904.36
+Abbott                        ,Rosie               ,Oak Grove,1622866,1673.35,-6204.92
+Abbott                        ,Rosie               ,Oak Grove,1695227,1549.95,-4276.38
+Abbott                        ,Ryan                ,Oak Grove,1140001,1211.60,-11279.24
+Abbott                        ,Stella              ,Oak Grove,1228922,349.18,-2882.73
+Abel                          ,Ida                 ,Pleasant Hill,130398,1046.14,-17343.25
+Abel                          ,Jose                ,Pleasant Hill,782888,1125.42,-13444.24
+Abel                          ,Sabrina             ,Oak Grove,1066061,5016.92,-16397.51
+Abernathy                     ,Christine           ,Fairview,1500220,2250.01,-6636.27
+Abernathy                     ,Deborah             ,Oak Grove,1605396,10111.40,-16544.14
+Abernathy                     ,Robert              ,Oak Grove,329056,0.00,-12822.45
+Abner                         ,Andrew              ,Riverside,1531800,3338.76,-8699.58
+Abner                         ,Elouise             ,Fairview,1438848,2456.06,-12176.50
+Abney                         ,Daniel              ,Pleasant Hill,536362,3663.58,-17271.77
+Abney                         ,Joseph              ,Riverside,1182990,2059.04,-7810.90
+Abraham                       ,Ignacio             ,Pleasant Hill,1911844,3783.99,-11703.82
+Abraham                       ,Jerry               ,Oak Grove,1201194,1150.00,-17733.12
+Abraham                       ,Kenneth             ,Pleasant Hill,1495803,264.85,-7761.69
+Abrams                        ,Amy                 ,Riverside,430174,0.00,-4369.22
+Abrams                        ,Glayds              ,Riverside,910998,87.35,-10255.67
+Acevedo                       ,Jacob               ,Riverside,508705,5204.89,-6056.62
+Acevedo                       ,Lucas               ,Fairview,904673,1696.85,-8768.59
+Acevedo                       ,Melia               ,Fairview,1842339,0.00,-8133.93
+Acker                         ,Michael             ,Midway,1789971,324.45,-593.16
+Acker                         ,Perry               ,Fairview,1462065,11576.62,-17369.82
+Ackerman                      ,Dennis              ,Five Points,1868372,1921.93,-14442.19
+Ackerman                      ,Jason               ,Riverside,1768906,3462.89,-9931.64
+Ackley                        ,Dennis              ,Midway,947214,1385.85,-8987.89
+Acosta                        ,David               ,Oak Grove,523858,11698.88,-16426.57
+Acosta                        ,Dean                ,Riverside,194733,1001.25,-8215.65
+Acosta                        ,Jacqueline          ,Five Points,1902833,818.65,-7534.84
+Acosta                        ,Leo                 ,Pleasant Hill,1456147,0.00,-3434.07
+Acosta                        ,Timothy             ,Pleasant Hill,966089,938.28,1446.42
+Acosta                        ,Willie              ,Oak Grove,1223350,1543.73,-6562.92
+Acosta                        ,,Fairview,1268582,2601.16,-10492.55
+Acuna                         ,Clarence            ,Pleasant Hill,865283,0.00,-11761.48
+Adair                         ,Evan                ,Fairview,642225,1388.57,-22200.70
+Adam                          ,Janet               ,Pleasant Hill,384836,1083.42,-7394.21
+Adam                          ,Joyce               ,Fairview,1792577,1073.54,-20254.22
+Adam                          ,Rachel              ,Pleasant Hill,314608,5497.23,-10719.53
+Adam                          ,Tara                ,Pleasant Hill,1865484,0.00,-16712.48
+Adame                         ,Daniel              ,Fairview,2293657,651.44,-5270.64
+Adams                         ,April               ,Pleasant Hill,1254550,378.43,-8512.93
+Adams                         ,Bessie              ,Fairview,2063308,1349.09,-2342.41
+Adams                         ,Betty               ,Pleasant Hill,1299226,1527.00,-813.44
+Adams                         ,Bruce               ,Pleasant Hill,1792661,2591.03,-5950.69
+Adams                         ,Carla               ,Pleasant Hill,732552,2681.34,-18089.55
+Adams                         ,Caroyln             ,Five Points,2155376,4474.01,-11430.81
+Adams                         ,Charlotte           ,Pleasant Hill,2086823,2178.11,-7567.64
+Adams                         ,Cindy               ,Midway,1077089,1445.72,-18921.15
+Adams                         ,Dale                ,Midway,950138,0.00,-7247.10
+Adams                         ,David               ,Pleasant Hill,110354,146.79,-11857.23
+Adams                         ,David               ,Riverside,482109,1314.10,-8421.21
+Adams                         ,Dennis              ,Riverside,388480,6119.23,-7523.62
+Adams                         ,Don                 ,Oak Grove,1194056,1589.18,-11827.29
+Adams                         ,Donald              ,Midway,5433,2.69,-19096.72
+Adams                         ,Donald              ,Pleasant Hill,1609542,2755.10,-11053.96
+Adams                         ,Edgar               ,Fairview,1433695,4385.96,-23294.03
+Adams                         ,Edward              ,Midway,1093846,745.97,-9423.45
+Adams                         ,Emily               ,Oak Grove,1533213,52.65,4508.03
+Adams                         ,Felipa              ,Pleasant Hill,1626044,0.00,-8116.95
+Adams                         ,Frank               ,Fairview,609995,1232.45,-11781.06
+Adams                         ,George              ,Midway,431279,242.68,-2479.39
+Adams                         ,Gertrude            ,Riverside,1708677,2956.21,-7329.00
+Adams                         ,Gladys              ,Five Points,1772703,31.07,-6742.42
+Adams                         ,Humberto            ,Pleasant Hill,1422826,2776.78,-10388.56
+Adams                         ,James               ,Fairview,338904,129.73,-7407.03
+Adams                         ,James               ,Fairview,1122698,222.60,-6994.20
+Adams                         ,James               ,Oak Grove,1119011,421.28,-12316.35
+Adams                         ,James               ,Pleasant Hill,1274548,1063.63,-5191.06
+Adams                         ,Janice              ,Fairview,1872482,1363.69,-7134.18
+Adams                         ,Jeanie              ,Oak Grove,585406,551.62,-22277.05
+Adams                         ,Jennifer            ,Pleasant Hill,1318655,2193.71,-6256.20
+Adams                         ,Jodi                ,Riverside,1394390,63.24,452.30
+Adams                         ,John                ,Fairview,1957587,556.95,-4830.24
+Adams                         ,Johnny              ,Five Points,1873949,0.00,-3911.06
+Adams                         ,Johnny              ,Oak Grove,2107976,0.00,-9736.18
+Adams                         ,Joseph              ,Five Points,606939,116.58,-9819.53
+Adams                         ,Joseph              ,Midway,1461907,4814.60,-329.42
+Adams                         ,Larry               ,Riverside,164786,4141.29,-1948.68
+Adams                         ,Latoria             ,Pleasant Hill,1234847,1205.39,-10820.37
+Adams                         ,Lillian             ,Fairview,413322,920.85,-4597.48
+Adams                         ,Linda               ,Pleasant Hill,2374927,649.09,-18266.35
+Adams                         ,Lora                ,Five Points,947926,2711.13,-2767.91
+Adams                         ,Marlon              ,Five Points,188007,3656.96,-6810.58
+Adams                         ,Maureen             ,Five Points,1329350,599.06,-10025.89
+Adams                         ,Max                 ,Fairview,2102049,11.65,743.36
+Adams                         ,Michael             ,Pleasant Hill,1592673,64.02,-12783.47
+Adams                         ,Michael             ,Riverside,567709,583.86,-10799.40
+Adams                         ,Michelle            ,Pleasant Hill,80058,1064.42,-8713.47
+Adams                         ,Minnie              ,Pleasant Hill,6696,1487.79,-4666.93
+Adams                         ,Norman              ,Fairview,1820077,96.68,-4210.19
+Adams                         ,Pamela              ,Pleasant Hill,1869187,3578.05,-2725.76
+Adams                         ,Patrick             ,Pleasant Hill,1382121,3265.07,-2056.76
+Adams                         ,Paul                ,Midway,2106727,4107.42,-6998.00
+Adams                         ,Rebekah             ,Riverside,2093345,0.00,-7422.07

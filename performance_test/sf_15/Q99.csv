@@ -1,0 +1,91 @@
+substr,sm_type,cc_name,30 days,31-60 days,61-90 days,91-120 days,>120 days
+Bad cards must make.,EXPRESS                       ,Mid Atlantic,18356,19388,19136,0,0
+Bad cards must make.,EXPRESS                       ,North Midwest,18599,19068,19073,0,0
+Bad cards must make.,EXPRESS                       ,NY Metro,18536,19235,18977,0,0
+Bad cards must make.,LIBRARY                       ,Mid Atlantic,13928,14296,14301,0,0
+Bad cards must make.,LIBRARY                       ,North Midwest,13945,14247,14336,0,0
+Bad cards must make.,LIBRARY                       ,NY Metro,14093,14535,14464,0,0
+Bad cards must make.,NEXT DAY                      ,Mid Atlantic,18604,18839,19366,0,0
+Bad cards must make.,NEXT DAY                      ,North Midwest,18567,18908,19204,0,0
+Bad cards must make.,NEXT DAY                      ,NY Metro,18475,19068,18951,0,0
+Bad cards must make.,OVERNIGHT                     ,Mid Atlantic,13655,14326,14247,0,0
+Bad cards must make.,OVERNIGHT                     ,North Midwest,14145,14401,14336,0,0
+Bad cards must make.,OVERNIGHT                     ,NY Metro,13900,14319,14530,0,0
+Bad cards must make.,REGULAR                       ,Mid Atlantic,13859,14587,14271,0,0
+Bad cards must make.,REGULAR                       ,North Midwest,13954,14146,14385,0,0
+Bad cards must make.,REGULAR                       ,NY Metro,13878,14158,14361,0,0
+Bad cards must make.,TWO DAY                       ,Mid Atlantic,13653,14344,14315,0,0
+Bad cards must make.,TWO DAY                       ,North Midwest,13895,14072,14316,0,0
+Bad cards must make.,TWO DAY                       ,NY Metro,13853,14324,14238,0,0
+Conventional childr,EXPRESS                       ,Mid Atlantic,18382,18957,19390,0,0
+Conventional childr,EXPRESS                       ,North Midwest,18343,19131,18872,0,0
+Conventional childr,EXPRESS                       ,NY Metro,18471,19163,19066,0,0
+Conventional childr,LIBRARY                       ,Mid Atlantic,13883,14448,14311,0,0
+Conventional childr,LIBRARY                       ,North Midwest,14152,14483,14145,0,0
+Conventional childr,LIBRARY                       ,NY Metro,13966,14504,14040,0,0
+Conventional childr,NEXT DAY                      ,Mid Atlantic,18469,19303,19136,0,0
+Conventional childr,NEXT DAY                      ,North Midwest,18469,18910,19080,0,0
+Conventional childr,NEXT DAY                      ,NY Metro,18394,19248,19230,0,0
+Conventional childr,OVERNIGHT                     ,Mid Atlantic,13825,14573,14225,0,0
+Conventional childr,OVERNIGHT                     ,North Midwest,13893,14322,14358,0,0
+Conventional childr,OVERNIGHT                     ,NY Metro,13927,14279,14453,0,0
+Conventional childr,REGULAR                       ,Mid Atlantic,13907,14254,14425,0,0
+Conventional childr,REGULAR                       ,North Midwest,13825,14214,14251,0,0
+Conventional childr,REGULAR                       ,NY Metro,14032,14583,14459,0,0
+Conventional childr,TWO DAY                       ,Mid Atlantic,13950,14494,14330,0,0
+Conventional childr,TWO DAY                       ,North Midwest,13592,14178,14320,0,0
+Conventional childr,TWO DAY                       ,NY Metro,13806,14178,14517,0,0
+Doors canno,EXPRESS                       ,Mid Atlantic,18666,18939,19228,0,0
+Doors canno,EXPRESS                       ,North Midwest,18774,19191,19104,0,0
+Doors canno,EXPRESS                       ,NY Metro,18291,19133,19068,0,0
+Doors canno,LIBRARY                       ,Mid Atlantic,13987,14300,14380,0,0
+Doors canno,LIBRARY                       ,North Midwest,14016,14170,14484,0,0
+Doors canno,LIBRARY                       ,NY Metro,13880,14271,14280,0,0
+Doors canno,NEXT DAY                      ,Mid Atlantic,18363,19093,19342,0,0
+Doors canno,NEXT DAY                      ,North Midwest,18412,19090,18890,0,0
+Doors canno,NEXT DAY                      ,NY Metro,18295,19305,19141,0,0
+Doors canno,OVERNIGHT                     ,Mid Atlantic,13956,14310,14366,0,0
+Doors canno,OVERNIGHT                     ,North Midwest,13854,14365,14404,0,0
+Doors canno,OVERNIGHT                     ,NY Metro,13882,14332,14219,0,0
+Doors canno,REGULAR                       ,Mid Atlantic,13860,14288,14220,0,0
+Doors canno,REGULAR                       ,North Midwest,13703,14151,14065,0,0
+Doors canno,REGULAR                       ,NY Metro,13849,14187,14072,0,0
+Doors canno,TWO DAY                       ,Mid Atlantic,13778,14455,14531,0,0
+Doors canno,TWO DAY                       ,North Midwest,13993,14379,14404,0,0
+Doors canno,TWO DAY                       ,NY Metro,13861,14218,14233,0,0
+Important issues liv,EXPRESS                       ,Mid Atlantic,18292,19188,19251,0,0
+Important issues liv,EXPRESS                       ,North Midwest,18340,19176,19330,0,0
+Important issues liv,EXPRESS                       ,NY Metro,18486,19189,18938,0,0
+Important issues liv,LIBRARY                       ,Mid Atlantic,14044,14584,14227,0,0
+Important issues liv,LIBRARY                       ,North Midwest,14010,14472,14306,0,0
+Important issues liv,LIBRARY                       ,NY Metro,13918,14554,14103,0,0
+Important issues liv,NEXT DAY                      ,Mid Atlantic,18677,18978,19203,0,0
+Important issues liv,NEXT DAY                      ,North Midwest,18380,18987,19210,0,0
+Important issues liv,NEXT DAY                      ,NY Metro,18416,19120,19269,0,0
+Important issues liv,OVERNIGHT                     ,Mid Atlantic,13830,14574,14398,0,0
+Important issues liv,OVERNIGHT                     ,North Midwest,13868,14229,14490,0,0
+Important issues liv,OVERNIGHT                     ,NY Metro,13679,14137,14297,0,0
+Important issues liv,REGULAR                       ,Mid Atlantic,13940,14557,14459,0,0
+Important issues liv,REGULAR                       ,North Midwest,13769,14471,14333,0,0
+Important issues liv,REGULAR                       ,NY Metro,13860,14475,14313,0,0
+Important issues liv,TWO DAY                       ,Mid Atlantic,14065,14478,14420,0,0
+Important issues liv,TWO DAY                       ,North Midwest,14269,14322,14448,0,0
+Important issues liv,TWO DAY                       ,NY Metro,13930,14120,14313,0,0
+,EXPRESS                       ,Mid Atlantic,18400,19056,19257,0,0
+,EXPRESS                       ,North Midwest,18673,19221,19103,0,0
+,EXPRESS                       ,NY Metro,18626,19082,19161,0,0
+,LIBRARY                       ,Mid Atlantic,13890,14407,14425,0,0
+,LIBRARY                       ,North Midwest,14093,14594,14249,0,0
+,LIBRARY                       ,NY Metro,13920,14254,14277,0,0
+,NEXT DAY                      ,Mid Atlantic,18577,18937,19269,0,0
+,NEXT DAY                      ,North Midwest,18260,19020,19033,0,0
+,NEXT DAY                      ,NY Metro,18449,19178,19080,0,0
+,OVERNIGHT                     ,Mid Atlantic,13912,14212,14316,0,0
+,OVERNIGHT                     ,North Midwest,14052,14223,14389,0,0
+,OVERNIGHT                     ,NY Metro,13727,14319,14205,0,0
+,REGULAR                       ,Mid Atlantic,13943,14340,14443,0,0
+,REGULAR                       ,North Midwest,14067,14437,14075,0,0
+,REGULAR                       ,NY Metro,13733,14319,14331,0,0
+,TWO DAY                       ,Mid Atlantic,13724,14143,14377,0,0
+,TWO DAY                       ,North Midwest,13975,14295,14451,0,0
+,TWO DAY                       ,NY Metro,14117,14403,14492,0,0
