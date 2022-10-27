@@ -82,3 +82,12 @@ Once these 23 queries are updated, we can begin the benchmarking
 
 15/10 Ahmad:
 - Added performance test script and SF 1 results
+
+23/10 Ahmad & Rishika:
+- Added optimised queries
+
+26/10 Ahmad:
+- Added results of other SFs and updated optimised queries
+
+27/10 Ahmad & Rishika:
+- Analysis files added
