@@ -1,33 +1,40 @@
-# TPC Benchmarking Brainstorming
+# TPC-DS Benchmarking 2022
 
-*Note: Charlotte is our concerned subject, that is why try to define even the basic stuff.*
+### Introduction
+This project is part of the **Big Data Management and Analytics (BDMA) - Erasmus Mundus Joint Master Degree Program** course **Data Warehouse**. The purpose of this repository is to allow others to reproduce our results and to explain better the steps for a meaningful TPC-DS benchmark for those seeking open-source solutions.
 
-## TPC KIT Process
+*******
 
-1) Loading Data Via the TPC Generator
+## Reproducing results
 
+1) The TPC-DS tool itself is not part of this repository it can be downloaded from [official website](https://www.tpc.org/tpcds/default5.asp).
+2) For our use case, the TPC-DS tool 3.x version had build problems therefore either we could use [older refined version](https://github.com/gregrahn/tpcds-kit) or use the latest version on Linux.
+3) Our team tried to install WSL (Windows Subsystem for Linux) on Windows 11 but it had driver problem and internet connectivity issues inside Ubuntu, therefore we used Docker.
+4) Building the TPC-DS tool itself:
 
-`dsdgen /SCALE 1 /DIR csv_data /suffix ".csv" /delimiter "|" /VERBOSE Y /PARALLEL 4 /QUIET N`
+    1) **On Docker/Linux:** To build the tool itself on Ubuntu, we need to install bison, flex and then use `make` command to build the C source code to an executable utility. Ending up with `dsdgen.sh` (Data Generator), `dsqgen.sh` (Query Generator). The detailed instructions are provided in  `tpc-ds-tool > tools > How_To_Guide.doc` under Linux section. 
+    2) **On Windows:** The tool has to be built using the oldest available Visual Studio Express (in our case 2017). We built the TPC-DS tool (TPCDS-KIT) on Windows just for exploration but went with Docker one since it supported the latest version 3.x instead of 2.x.
+      
+5) Generating data:
+    1) **On Linux:** To gererate the data use the command `dsdgen -scale 1 -dir .\tmp -suffix .csv -delimiter "^" -parallel 4 -child 1 -quiet n -terminate n &`.
+    2)  **On Windows:** `dsdgen /SCALE 1 /DIR .\tmp /suffix ".csv" /delimiter "^" /VERBOSE Y /PARALLEL 4 /CHILD 1 /QUIET N`.
 
+6) Generating queries:
+    1) **On Linux:** `./dsqgen -DIRECTORY ../query_templates -INPUT ../query_templates/templates.lst -VERBOSE Y -QUALIFY Y -DIALECT netezza`.
+    2)  **On Windows:** `./dsqgen /DIRECTORY ../query_templates /INPUT query_templates/templates.lst /VERBOSE Y /QUALIFY Y /DIALECT netezza`. 
+    
+7) Once the data and queries have been generated, the Python notebooks listed in the repository are self-explainitory. Nevertheless:
+    1) `preprocess_db_setup_load_script.ipynb` is to setup db and load data.
+    2) `query_run_test_script.ipynb` was used to do a test run on all 99 queries (took about 2.5 hrs for 1 SF, and I've identified 23 queries that need to be updated to match with postgres syntax) 
+    3) `all_queries` folder holds the 99 queries, and also two text files, one with the list of queries with error and the other with the full result of the initial run test.
+    4) The folder `all_queries > updated_queries` contains the queries that have been optimized/modified.
 
-2) To tackle the `_END not defiend error` add another step
+### Exceptional Circumstances:
+
+To tackle the `_END not defiend error` add another step
 Ensure that the file `query_templates/netezza.tpl` contains the following line:
 
-
-
 `define _END = "";`
-
-
-3) Converting Templates to SQL - Needs to be called iteratively
-
-
-`dsqgen /input query_templates\templates.lst /directory query_templates /dialect netezza /output_dir sqls/query1.tpl /scale 1 /verbose y /template query1.tpl`
-
-
-## Mirwise's Findings
-
-### What is TPC?
-TPC is **Transaction Performance Processing Counsel** formerly known as **Transaction Processing Councel**. The purpose of the councel is to ensure that benchmarks claimed by vendors are trustworthy and excludes the exaggeration factor.
 
 ### Supporting Repositories
 
@@ -37,57 +44,3 @@ TPC is **Transaction Performance Processing Counsel** formerly known as **Transa
 4. https://github.com/stanislawbartkowski/mytpcds
 5. https://ankane.org/tpc-ds
 6. https://datacadamia.com/data/type/relation/benchmark/tpcds/dsqgen
-
-
-### What is Decision Support Benchmarking?
-#### TPC-DI
-#### TPC-DS
-#### TPC-H
-
-### Preliminary Annex
-
-* **Fact Table** 
-consists of the measurements, metrics or facts of a business process. Facts tables could contain information like sales against a set of dimensions like Product and Date.*
-
-* **Dimension Table**
-contains attributes which describe the details of the dimension. E.g., Product dimensions can contain Product ID, Product Category, etc.*
-
-* **Snowflake Schema**
-is centralized by Fact table and surrounded by dimension tables such that the resultant shape of entity relational diagram resembels snowflake.
-
-\* *The definations are taken from web and requires revision for plagiarism purposes.*
-
-## < Your-Name > Findings
-
-Add your own findings under you own heading
-
-
-## Updates
-11/10 Ahmad:
-1) "preprocess_db_setup_load_script.ipynb" is to setup db and load data
-
-2) "query_run_test_script.ipynb" was used to do a test run on all 99 queries (took about 2.5 hrs for 1 SF, and I've identified 23 queries that need to be updated to match with postgres syntax) 
-
-3) "all_queries" folder holds the 99 queries, and also two text files, one with the list of queries with error and the other with the full result of the initial run test
-
-*********
-Next steps: From those 23 queries, we can each update some and push to git so that we don't mix it up, lemme know if u have any preference
-
-Note: There is a seperate folder called "updated_queries" inside "all_queries" in which we can do the updates in, so that we distinguish the initial ones in a seperate folder
-
-Once these 23 queries are updated, we can begin the benchmarking
-
-13/10 Ahmad & Rishika: 
-- Fixed all errors for the 23 queries
-
-15/10 Ahmad:
-- Added performance test script and SF 1 results
-
-23/10 Ahmad & Rishika:
-- Added optimised queries
-
-26/10 Ahmad:
-- Added results of other SFs and updated optimised queries
-
-27/10 Ahmad & Rishika:
-- Analysis files added
